@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Skeleton
+  - Coin
+  - SkeletonHouse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2164714071
+    locked: 0
+  - name: MISC
+    uniqueID: 1814028467
+    locked: 0
+  - name: Canvas
+    uniqueID: 218100659
+    locked: 0
+  - name: Player
+    uniqueID: 216526379
+    locked: 0
+  - name: Skeleton
+    uniqueID: 4158180843
+    locked: 0
+  - name: Bat
+    uniqueID: 2903676611
+    locked: 0
+  - name: Coin
+    uniqueID: 3060481437
+    locked: 0
